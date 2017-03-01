@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LNDemo_Example' do
+  pod 'LNDemo', :path => '../'
+
+  target 'LNDemo_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
