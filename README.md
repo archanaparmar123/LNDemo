@@ -1,6 +1,6 @@
 # LNDemo
 
-[![CI Status](http://img.shields.io/travis/archana parmar/LNDemo.svg?style=flat)](https://travis-ci.org/archana parmar/LNDemo)
+[![CI Status](http://img.shields.io/travis/archanaparmar123/LNDemo.svg?style=flat)](https://travis-ci.org/archana parmar/LNDemo)
 [![Version](https://img.shields.io/cocoapods/v/LNDemo.svg?style=flat)](http://cocoapods.org/pods/LNDemo)
 [![License](https://img.shields.io/cocoapods/l/LNDemo.svg?style=flat)](http://cocoapods.org/pods/LNDemo)
 [![Platform](https://img.shields.io/cocoapods/p/LNDemo.svg?style=flat)](http://cocoapods.org/pods/LNDemo)
