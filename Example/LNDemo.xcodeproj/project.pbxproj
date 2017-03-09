@@ -15,6 +15,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		C2D03D3BFF43095F5E9E64B4 /* Pods_LNDemo_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3646D9623B756251FBB50039 /* Pods_LNDemo_Example.framework */; };
+		D9BD3ADC1E717F8F0049ADAD /* LNDemo.swift-version in Resources */ = {isa = PBXBuildFile; fileRef = D9BD3ADB1E717F8F0049ADAD /* LNDemo.swift-version */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		67176F619CAC40C5297164BF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		919254271345658E89EA2812 /* Pods_LNDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LNDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C26D89345FCF22B3E5400D3D /* Pods-LNDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNDemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LNDemo_Tests/Pods-LNDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		D9BD3ADB1E717F8F0049ADAD /* LNDemo.swift-version */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "LNDemo.swift-version"; path = "../LNDemo.swift-version"; sourceTree = "<group>"; };
 		E52CC858D1C1BD7395D7550F /* Pods-LNDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNDemo_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LNDemo_Tests/Pods-LNDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FC58BF0DF8F670ECF1A9A521 /* Pods-LNDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNDemo_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LNDemo_Example/Pods-LNDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -143,6 +145,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
+				D9BD3ADB1E717F8F0049ADAD /* LNDemo.swift-version */,
 				54E1837E01EA7DF4C7647683 /* LNDemo.podspec */,
 				67176F619CAC40C5297164BF /* README.md */,
 				25FC7410F71E4093BC558A19 /* LICENSE */,
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				D9BD3ADC1E717F8F0049ADAD /* LNDemo.swift-version in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
